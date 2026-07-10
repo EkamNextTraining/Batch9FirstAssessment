@@ -3,7 +3,7 @@
 //  Paste your Google Apps Script Web App URL below
 // =====================================================================
 
-const SCRIPT_URL = "YOUR_GOOGLE_APPS_SCRIPT_URL_HERE";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzO9SZYQpTVqDdkHYA-QpY0Q_j4v8fd5adBNrDhE5oAZh3j1vYK40hy5C6OhCAzzmZmSQ/exec";
 
 // ── Config ────────────────────────────────────────────────────────────
 const TOTAL_Q       = 40;   // 20 scenario + 20 MCQ
